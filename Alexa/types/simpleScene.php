@@ -33,7 +33,7 @@ class DeviceTypeSimpleScene
         return [
             'de' => [
                 'Scenes' => 'Szenen',
-                'Script' => 'Skript'
+                'Action' => 'Aktion'
             ]
         ];
     }
